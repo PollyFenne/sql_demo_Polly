@@ -81,3 +81,7 @@ postgres=# SELECT cats.name, breeds.name FROM cats LEFT JOIN breeds ON cats.bree
  Bastian   |
  Kellog    |
  ```
+ 
+ The data bases are now linked as follows: 
+ ![image](https://user-images.githubusercontent.com/113044818/204512708-723171ab-61ec-4a1d-b055-32850da79fb6.png)
+
